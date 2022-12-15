@@ -30,6 +30,7 @@
     {"id":{"name":"sPlayerAttackOne","path":"sprites/sPlayerAttackOne/sPlayerAttackOne.yy",},"order":11,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"oCurrency","path":"objects/oCurrency/oCurrency.yy",},"order":6,},
+    {"id":{"name":"WPOWOWO","path":"sprites/WPOWOWO/WPOWOWO.yy",},"order":21,},
     {"id":{"name":"sBricks","path":"sprites/sBricks/sBricks.yy",},"order":10,},
     {"id":{"name":"oEVO1","path":"objects/oEVO1/oEVO1.yy",},"order":0,},
     {"id":{"name":"MEEIUHFIUWEHFIUEWF","path":"sprites/MEEIUHFIUWEHFIUEWF/MEEIUHFIUWEHFIUEWF.yy",},"order":17,},

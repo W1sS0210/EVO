@@ -24,6 +24,7 @@
     {"id":{"name":"oWall3","path":"objects/oWall3/oWall3.yy",},"order":5,},
     {"id":{"name":"sCurrency","path":"sprites/sCurrency/sCurrency.yy",},"order":6,},
     {"id":{"name":"EnemyHurt","path":"scripts/EnemyHurt/EnemyHurt.yy",},"order":1,},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":9,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":7,},
     {"id":{"name":"sEmpty","path":"sprites/sEmpty/sEmpty.yy",},"order":3,},
     {"id":{"name":"sPlayerAttackOne","path":"sprites/sPlayerAttackOne/sPlayerAttackOne.yy",},"order":11,},

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "water",
+  "name": "tsSand",
   "spriteId": {
-    "name": "Sprite17",
-    "path": "sprites/Sprite17/Sprite17.yy",
+    "name": "sSand",
+    "path": "sprites/sSand/sSand.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,

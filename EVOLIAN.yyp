@@ -5,12 +5,12 @@
   "resources": [
     {"id":{"name":"sTree1","path":"sprites/sTree1/sTree1.yy",},"order":5,},
     {"id":{"name":"shPlayerHurt","path":"shaders/shPlayerHurt/shPlayerHurt.yy",},"order":0,},
-    {"id":{"name":"sand","path":"tilesets/sand/sand.yy",},"order":1,},
+    {"id":{"name":"tsSand","path":"tilesets/tsSand/tsSand.yy",},"order":1,},
     {"id":{"name":"sMainMenuBackground","path":"sprites/sMainMenuBackground/sMainMenuBackground.yy",},"order":12,},
-    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":18,},
+    {"id":{"name":"sSand","path":"sprites/sSand/sSand.yy",},"order":18,},
     {"id":{"name":"oWall2","path":"objects/oWall2/oWall2.yy",},"order":2,},
     {"id":{"name":"sHealthBar","path":"sprites/sHealthBar/sHealthBar.yy",},"order":9,},
-    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},"order":19,},
+    {"id":{"name":"sWater","path":"sprites/sWater/sWater.yy",},"order":19,},
     {"id":{"name":"oMINIB1","path":"objects/oMINIB1/oMINIB1.yy",},"order":8,},
     {"id":{"name":"sEVO2","path":"sprites/sEVO2/sEVO2.yy",},"order":1,},
     {"id":{"name":"sEVO1","path":"sprites/sEVO1/sEVO1.yy",},"order":0,},
@@ -18,8 +18,9 @@
     {"id":{"name":"shButton","path":"shaders/shButton/shButton.yy",},"order":1,},
     {"id":{"name":"PlayerHurt","path":"scripts/PlayerHurt/PlayerHurt.yy",},"order":0,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":2,},
+    {"id":{"name":"Water","path":"objects/Water/Water.yy",},"order":9,},
     {"id":{"name":"oKey","path":"objects/oKey/oKey.yy",},"order":3,},
-    {"id":{"name":"water","path":"tilesets/water/water.yy",},"order":2,},
+    {"id":{"name":"tsWater","path":"tilesets/tsWater/tsWater.yy",},"order":2,},
     {"id":{"name":"oWall3","path":"objects/oWall3/oWall3.yy",},"order":5,},
     {"id":{"name":"sCurrency","path":"sprites/sCurrency/sCurrency.yy",},"order":6,},
     {"id":{"name":"EnemyHurt","path":"scripts/EnemyHurt/EnemyHurt.yy",},"order":1,},
@@ -32,7 +33,6 @@
     {"id":{"name":"oEVO1","path":"objects/oEVO1/oEVO1.yy",},"order":0,},
     {"id":{"name":"sKey","path":"sprites/sKey/sKey.yy",},"order":4,},
     {"id":{"name":"tsBricks","path":"tilesets/tsBricks/tsBricks.yy",},"order":0,},
-    {"id":{"name":"L1","path":"rooms/L1/L1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -47,9 +47,7 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrderNodes": [
-    {"roomId":{"name":"L1","path":"rooms/L1/L1.yy",},},
-  ],
+  "RoomOrderNodes": [],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":10,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":12,},
@@ -74,6 +72,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.1.56",
+    "IDEVersion": "2022.11.0.54",
   },
 }

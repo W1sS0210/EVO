@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tsBricks",
   "spriteId": {
     "name": "sBricks",
     "path": "sprites/sBricks/sBricks.yy",
@@ -47,8 +50,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tsBricks",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }
